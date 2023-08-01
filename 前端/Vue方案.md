@@ -1,9 +1,5 @@
 # Vue2案例
 
-## npm 对应 yarn 命令
-
-![](https://yang-cloud-img.oss-cn-beijing.aliyuncs.com/img/1658992332839.png)
-
 ## 解决跨域问题
 
 ### vue-cil 代理服务器
